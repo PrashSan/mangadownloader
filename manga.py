@@ -20,7 +20,7 @@ def main():
         if ask=="y":
             download_manga(chapter,chapters[chapter])
 
-
+        just checking 
         else:
             continue  
 
